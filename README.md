@@ -4,11 +4,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nestorjhm/nestorjhm/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
-
-<br clear="both">
-
-<p data-importer="text" align="center">Hola, soy Néstor</p>
+<h1 data-importer="text" align="center">¡Hola, soy Néstor!</h1>
 
 ###
 
