@@ -1,5 +1,3 @@
-<h1 align="center">Hola, soy Néstor</h1>
-
 <p align="center">
   <strong>Curiosidad para aprender. Código para crear.</strong>
 </p>
