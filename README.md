@@ -8,51 +8,39 @@
 
 ###
 
-### 💻 Lenguajes
+### 💻 Lenguajes que suelo usar
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" title="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="LaTeX" title="LaTeX" />
 </p>
 
-### 🧠 Intereses
-
-Visión por computador · Deep Learning · Machine Learning
+### 🧠 Intereses (Computer Vision · Deep Learning · Machine Learning)
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" title="PyTorch" />
   &nbsp;
+  <img src="https://cdn.simpleicons.org/yolo/111F68" height="40" alt="YOLO" title="YOLO" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="OpenCV" title="OpenCV" />
 </p>
 
-### 🛠️ Aplicaciones
+### 🛠️ Aplicaciones o tecnologías que utilizo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" title="Notion" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=sketchup" height="40" alt="SketchUp" title="SketchUp" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" title="RStudio" />
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack" title="Slack" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello" title="Trello" />
-</p>
-
-### ⚙️ Otros
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
   &nbsp;
+</p>
+
+### ⚙️ Otros que he usado
+
+<p align="left">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" title="Docker" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" title="Linux" />
@@ -68,4 +56,15 @@ Visión por computador · Deep Learning · Machine Learning
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino" title="Arduino" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" title="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" title="RStudio" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=sketchup" height="40" alt="SketchUp" title="SketchUp" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="LaTeX" title="LaTeX" />
 </p>
