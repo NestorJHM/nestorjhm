@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Néstor</h1>
 
-<!--
-**NestorJHM/nestorjhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Curiosidad para aprender. Código para crear.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&height=65&lines=Me+encanta+programar.;Convertir+ideas+en+c%C3%B3digo.;Entender%2C+construir%2C+mejorar." alt="Me encanta programar. Convertir ideas en código. Entender, construir, mejorar." />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">
+  <samp>Siempre hay algo nuevo que aprender y algo interesante que construir.</samp>
+</p>
