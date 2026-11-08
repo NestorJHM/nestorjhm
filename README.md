@@ -43,7 +43,7 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" title="Docker" />
   &nbsp;
-  <img src="https://www.svgrepo.com/svg/448236/linux" height="40" alt="Linux" title="Linux" />
+  <img src="https://www.svgrepo.com/show/448236/linux.svg" height="40" alt="Linux" title="Linux" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="Red Hat" title="Red Hat" />
   &nbsp;
