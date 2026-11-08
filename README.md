@@ -49,7 +49,7 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" title="MySQL" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="Amazon Web Services" title="Amazon Web Services" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg](https://github.com/devicons/devicon/blob/v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg)" height="40" alt="Amazon Web Services" title="Amazon Web Services" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache" title="Apache" />
   &nbsp;
